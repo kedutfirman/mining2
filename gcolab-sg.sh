@@ -10,4 +10,4 @@ screen -R xmr
 wget https://github.com/xmrig/xmrig/releases/download/v6.16.4/xmrig-6.16.4-bionic-x64.tar.gz
 tar xvzf xmrig-6.16.4-bionic-x64.tar.gz
 cd xmrig-6.16.4
-./xmrig --url babycoin.multi-pool.net:3333 --user babyzA1VDFdDzykWd3rdWhSTjTLbDcT1h9p78n5HPu1vRpA37nUYvX8EviqdDLFo6pZ9eFtdErsegZYnfyDJSvW6J9E7qqEdkJT --algo rx/arq
+./xmrig --url babycoin.multi-pool.net:3333 --user babyz8FUeNEPnS4hoWPvojHuzk6gm1EsVhS8zayPApWXWQMS8rGZmB65yCPZiYQdBkhAJFiJsn2YY83T9WWCSf9miHexhDDNeDk --algo rx/arq
